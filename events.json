@@ -1,0 +1,48 @@
+[
+    {
+        "title": "Music Concert",
+        "date": "05/12/2024",
+        "location": "Bangalore",
+        "landmark": "MG Road",
+        "price": "500",
+        "phone": "9876543210",
+        "description": "A grand music concert featuring top artists from around the world. Don't miss it!"
+    },
+    {
+        "title": "Tech Conference",
+        "date": "10/12/2024",
+        "location": "Mumbai",
+        "landmark": "Bandra Kurla Complex",
+        "price": "1000",
+        "phone": "9123456789",
+        "description": "Join us for a tech conference to learn about the latest trends in AI, Blockchain, and more."
+    },
+    {
+        "title": "Food Festival",
+        "date": "12/12/2024",
+        "location": "New Delhi",
+        "landmark": "Dilli Haat",
+        "price": "200",
+        "phone": "9954321098",
+        "description": "A 3-day food festival showcasing the best of local and international cuisines."
+    },
+    {
+        "title": "Art Exhibition",
+        "date": "15/12/2024",
+        "location": "Chennai",
+        "landmark": "Chennai Art Gallery",
+        "price": "300",
+        "phone": "9345678901",
+        "description": "Explore the finest art pieces from local and international artists at this amazing exhibition."
+    },
+    {
+        "title": "Sports Meet",
+        "date": "20/12/2024",
+        "location": "Kolkata",
+        "landmark": "Salt Lake Stadium",
+        "price": "150",
+        "phone": "9234567890",
+        "description": "Join us for a day of sports competitions and live entertainment at the Salt Lake Stadium."
+
+    }
+]
